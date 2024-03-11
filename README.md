@@ -6,7 +6,7 @@ Running `tehdas` will create both the files and the directories it uses to work.
 
 Having configured `tehdas`, the program will infer the project language and build the project accordingly, placing the binary to the configured target folder.
 
-Calling `tehdas` syntax is as follows:\
+The syntax for calling `tehdas` is as follows:\
 `tehdas {entry path}`\
 Entry path may be a file or directory. By default the entry is the current working directory.
 
