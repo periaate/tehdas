@@ -19,6 +19,3 @@ Sorry, I procrastinate by writing software.
 
 ## Additional notes
 This project is overengineered, it isn't idiomatic, nor does it try to be. I made this for fun, so I might have used patterns which aren't recommended or are considered bad practices. It implements a custom key-value string coding format for its configuration file (which only ever has a single key and a single value). It uses nonstandard error handling, control flow, and logging.
-
-## License
-This project is licensed under [EUPL 1.2.](./LICENSE)
